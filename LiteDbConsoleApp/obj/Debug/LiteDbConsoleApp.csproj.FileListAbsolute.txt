@@ -1,0 +1,9 @@
+C:\Work\LiteDbTest\LiteDbConsoleApp\obj\Debug\LiteDbConsoleApp.csprojResolveAssemblyReference.cache
+C:\Work\LiteDbTest\LiteDbConsoleApp\obj\Debug\LiteDbConsoleApp.csproj.CoreCompileInputs.cache
+C:\Work\LiteDbTest\LiteDbConsoleApp\bin\Debug\LiteDbConsoleApp.exe.config
+C:\Work\LiteDbTest\LiteDbConsoleApp\bin\Debug\LiteDbConsoleApp.exe
+C:\Work\LiteDbTest\LiteDbConsoleApp\bin\Debug\LiteDbConsoleApp.pdb
+C:\Work\LiteDbTest\LiteDbConsoleApp\bin\Debug\LiteDB.dll
+C:\Work\LiteDbTest\LiteDbConsoleApp\bin\Debug\LiteDB.xml
+C:\Work\LiteDbTest\LiteDbConsoleApp\obj\Debug\LiteDbConsoleApp.exe
+C:\Work\LiteDbTest\LiteDbConsoleApp\obj\Debug\LiteDbConsoleApp.pdb
